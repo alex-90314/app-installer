@@ -5,9 +5,9 @@ butt_click = ''
 
 root = Tk()
 
-#processing the button click
 def butt_click():
     print("Button Clicked")
+
 
 #setting up the frame
 frm = ttk.Frame(root, padding=10)
