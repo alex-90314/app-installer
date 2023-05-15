@@ -1,6 +1,7 @@
 # app-installer
 
-research and gather a list of apps. start building the program using Python's GUI libraries like tkinter or PyQT.
+gather a list of apps
+build the program using Python's GUI libraries like tkinter or PyQT.
 
 simple user interface that allows the selection of apps to install and then download them from their respective sources. use Python's built-in web scraping libraries like BeautifulSoup to automate the download process.
 

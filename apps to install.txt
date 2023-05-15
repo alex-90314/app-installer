@@ -1,0 +1,14 @@
+from explorer:
+chrome
+
+from chrome:
+advanced uninstaller
+office
+vscode
+zoom
+steam
+epic
+discord
+zoom
+obs
+
