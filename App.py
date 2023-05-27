@@ -1,13 +1,13 @@
 from tkinter import *
 from tkinter import ttk
-
-butt_click = ''
+import os
 
 root = Tk()
-
+os.system("cls")
+#sets the button click to run code
 def butt_click():
-    print("Button Clicked")
-
+    os.system("cls")
+    os.system('python C:\\Users\\boric\\Documents\\GitHub\\app-installer\\backend.py')
 
 #setting up the frame
 frm = ttk.Frame(root, padding=10)
