@@ -11,3 +11,8 @@ epic
 discord
 zoom
 obs
+pushbullet
+rustdesk
+spacedesk
+macro deck
+grammarly
